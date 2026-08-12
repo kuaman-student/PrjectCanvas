@@ -35,13 +35,6 @@
     "description": "3-scene animated ad for Lenskart's flexible glasses — neon purple-blue theme, bold CTA, and synced audio."
   },
   {
-    "title": "Lenskart — Flexible & Unbreakable Glasses (Ad)",
-    "tool": "canva",
-    "image": "https://snipboard.io/87K9hE.jpg",
-    "link": "https://canva.link/3fbdtm7mfzf1pox",
-    "description": "3-scene animated ad for Lenskart's flexible glasses — neon purple-blue theme, bold CTA, and synced audio."
-  },
-  {
     "title": "Pariyon Ki Kahaniyan — Storybook Cover",
     "tool": "canva",
     "image": "https://snipboard.io/XA6GB7.jpg",
@@ -75,5 +68,47 @@
     "image": "https://snipboard.io/bvArJe.jpg",
     "link": "https://canva.link/yosp8rogbcz1mxl",
     "description": "Clean promo poster for my tech blog TechGenHub — covers hardware, software, cybersecurity, and AI content, with a bold geometric accent."
+  },
+  {
+    "title": "TechGenHub — 'Join Us' Recruitment Banner",
+    "tool": "canva",
+    "image": "https://snipboard.io/0zLeHC.jpg",
+    "link": "https://canva.link/fbnk82r4qvz6n47",
+    "description": "Long-form banner for TechGenHub covering brand intro, core content pillars (AI, cybersecurity, tech trends), and contact details — dark-to-light layout with a coding-theme hero."
+  },
+  {
+    "title": "TechGenHub — Anatomy of a Cyberattack — Infographic",
+    "tool": "canva",
+    "image": "https://snipboard.io/tMQFku.jpg",
+    "link": "https://canva.link/b1iumrkom6fnffb",
+    "description": "A 4-step infographic breaking down how a cyberattack unfolds — Research, Initial Attack, Final Attack, and Data Lift — with icons and short explanations for each phase, on a bold blue background."
+  },
+  {
+    "title": "TechGenHub — Protect Your Personal Data — Tips Poster",
+    "tool": "canva",
+    "image": "https://snipboard.io/u7WGT0.jpg",
+    "link": "https://canva.link/idrcqz3f8hg2wm6",
+    "description": "A 4-step infographic breaking down how a cyberattack unfolds — Research, Initial Attack, Final Attack, and Data Lift — with icons and short explanations for each phase, on a bold blue background."
+  },
+  {
+    "title": "TechGenHub — Social Media & Mental Health — Carousel Series ",
+    "tool": "canva",
+    "image": "https://snipboard.io/JGZtYI.jpg",
+    "link": "https://canva.link/9z036hogmmocb3s",
+    "description": "4-part carousel on social media's effect on mental health — pros, cons, and protection tips — designed for TechGenHub's Instagram."
+  },
+  {
+    "title": "TechGenHub — Stop Cyberbullying — Awareness Poster",
+    "tool": "canva",
+    "image": "https://snipboard.io/nvZQlf.jpg",
+    "link": "https://canva.link/tmdrvgimlozwu41",
+    "description": "Anti-cyberbullying awareness poster with a call to action and a quote on staying silent — TechGenHub branded."
+  },
+  {
+    "title": "TechGenHub — Stop Cyberbullying — Awareness Poster",
+    "tool": "canva",
+    "image": "https://snipboard.io/nvZQlf.jpg",
+    "link": "https://canva.link/fihagesvpoibqh8",
+    "description": "Anti-cyberbullying awareness poster with a call to action and a quote on staying silent — TechGenHub branded."
   }
 ]
