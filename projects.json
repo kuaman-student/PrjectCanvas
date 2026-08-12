@@ -189,20 +189,7 @@
     "link": "https://canva.link/w4fyplf6ma5socq",
     "description": "Cover poster on habit-based tips to reduce screen time, paired with a phone-scrolling illustration — for TechGenHub."
   },
-  { 
-    "title": "JavaScript Frameworks — Logo Collage",
-    "tool": "canva",
-    "image": "https://snipboard.io/uodPLs.jpg",
-    "link": "https://canva.link/8a3vt7x7550u5uc",
-    "description": "A vibrant collage of JS framework and library logos — React, Vue, Node, Angular, and more — on a bold gradient background."
-  },
-  { 
-    "title": "JavaScript Frameworks — Collage (Wide Layout)",
-    "tool": "canva",
-    "image": "https://snipboard.io/LsijTV.jpg",
-    "link": "https://canva.link/x2okr59zl2rvjva",
-    "description": "A horizontal collage of JS framework logos on a purple-green gradient — a second take on the tech-stack visual."
-  },
+  
   { 
     "title": "TechGenHub — Advances in Artificial Intelligence — Infographic",
     "tool": "canva",
@@ -210,13 +197,7 @@
     "link": "https://canva.link/nhv7ln9zuzozmfk",
     "description": "6-area infographic on AI's reach — from software to marketing — with color-coded icon badges on a dark theme."
   },
-  { 
-    "title": "TechGenHub — Tech & Cybersecurity — Digital Poster",
-    "tool": "canva",
-    "image": "https://snipboard.io/a1XKAp.jpg",
-    "link": "https://canva.link/mqhaxa9a8pie5pq",
-    "description": "A visual mashup of AI, data, and cybersecurity icons on a purple binary-code background, for TechGenHub."
-  },
+
   
   { 
     "title": "History of Machine Learning — Timeline",
@@ -299,6 +280,19 @@
     "image": "https://snipboard.io/WC9KV5.jpg",
     "link": "https://www.figma.com/design/Tk7nnj0zx9id03HLFFMNCe/Signin?node-id=0-1&t=rTpmzmrpWfBHtnty-1",
     "description": "Role-based sign-in UI with a Student/Teacher toggle, in a clean blue-and-white design — Figma."
+  },{ 
+    "title": "JavaScript Frameworks — Logo Collage",
+    "tool": "canva",
+    "image": "https://snipboard.io/uodPLs.jpg",
+    "link": "https://canva.link/8a3vt7x7550u5uc",
+    "description": "A vibrant collage of JS framework and library logos — React, Vue, Node, Angular, and more — on a bold gradient background."
+  },
+  { 
+    "title": "JavaScript Frameworks — Collage (Wide Layout)",
+    "tool": "canva",
+    "image": "https://snipboard.io/LsijTV.jpg",
+    "link": "https://canva.link/x2okr59zl2rvjva",
+    "description": "A horizontal collage of JS framework logos on a purple-green gradient — a second take on the tech-stack visual."
   }
   
 ]
