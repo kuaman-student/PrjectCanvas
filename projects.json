@@ -69,6 +69,20 @@
     "link": "https://canva.link/cf040kkjb5mbaeb",
     "description": "Full brand banner for TechGenHub, with logo, tagline, contact info, and a QR code panel on a blue tech background."
   },
+  { 
+    "title": "TechGenHub — Supervised Learning Algorithms — Pie Chart",
+    "tool": "canva",
+    "image": "https://snipboard.io/E3m4AD.jpg",
+    "link": "https://canva.link/rjh5jta2zqq73ls",
+    "description": "8-algorithm wheel diagram of supervised learning methods, in a soft peach-mauve theme."
+  },
+   {
+    "title": "TechGenHub — Social Media & Mental Health — Carousel Series ",
+    "tool": "canva",
+    "image": "https://snipboard.io/JGZtYI.jpg",
+    "link": "https://canva.link/9z036hogmmocb3s",
+    "description": "4-part carousel on social media's effect on mental health — pros, cons, and protection tips — designed for TechGenHub's Instagram."
+  },
   
   {
     "title": "TechGenHub — Blog Poster",
@@ -107,6 +121,23 @@
     "link": "https://canva.link/29m8mfmjh55bi7y",
     "description": "Briefcase-icon logo for MakeMyPortfolio, on a warm coral-purple gradient, with tagline."
   },
+
+    { 
+    "title": "TechGenHub — Advances in Artificial Intelligence — Infographic",
+    "tool": "canva",
+    "image": "https://snipboard.io/gOMBCx.jpg",
+    "link": "https://canva.link/nhv7ln9zuzozmfk",
+    "description": "6-area infographic on AI's reach — from software to marketing — with color-coded icon badges on a dark theme."
+  },
+
+  
+  { 
+    "title": "History of Machine Learning — Timeline",
+    "tool": "canva",
+    "image": "https://snipboard.io/Kcgjx7.jpg",
+    "link": "https://canva.link/ieqthl8jb0ony4m",
+    "description": "A milestone timeline of ML history, from 1952's Checkers program to AlphaGo in 2016, with clean icons and color-coded years."
+  },
  
   {
     "title": "Trapollution Repeller-Logo",
@@ -137,15 +168,7 @@
     "link": "https://canva.link/3fbdtm7mfzf1pox",
     "description": "3-scene animated ad for Lenskart's flexible glasses — neon purple-blue theme, bold CTA, and synced audio."
   },
-  {
-    "title": "Pariyon Ki Kahaniyan — Storybook Cover",
-    "tool": "canva",
-    "image": "https://snipboard.io/XA6GB7.jpg",
-    "link": "https://canva.link/ufospt3olpwf4he",
-    "description": "Illustrated storybook cover for a Hindi fairy-tale collection — night-sky theme with a fairy, a prince, and a family, designed to appeal to young readers."
-  },
-  
-  
+    
   {
     "title": "TechGenHub — Anatomy of a Cyberattack — Infographic",
     "tool": "canva",
@@ -153,20 +176,8 @@
     "link": "https://canva.link/b1iumrkom6fnffb",
     "description": "A 4-step infographic breaking down how a cyberattack unfolds — Research, Initial Attack, Final Attack, and Data Lift — with icons and short explanations for each phase, on a bold blue background."
   },
-  {
-    "title": "TechGenHub — Protect Your Personal Data — Tips Poster",
-    "tool": "canva",
-    "image": "https://snipboard.io/u7WGT0.jpg",
-    "link": "https://canva.link/idrcqz3f8hg2wm6",
-    "description": "A 4-step infographic breaking down how a cyberattack unfolds — Research, Initial Attack, Final Attack, and Data Lift — with icons and short explanations for each phase, on a bold blue background."
-  },
-  {
-    "title": "TechGenHub — Social Media & Mental Health — Carousel Series ",
-    "tool": "canva",
-    "image": "https://snipboard.io/JGZtYI.jpg",
-    "link": "https://canva.link/9z036hogmmocb3s",
-    "description": "4-part carousel on social media's effect on mental health — pros, cons, and protection tips — designed for TechGenHub's Instagram."
-  },
+
+ 
   
   { 
     "title": "TechGenHub — The Stages in Cyberbullying — Infographic",
@@ -190,22 +201,7 @@
     "description": "Cover poster on habit-based tips to reduce screen time, paired with a phone-scrolling illustration — for TechGenHub."
   },
   
-  { 
-    "title": "TechGenHub — Advances in Artificial Intelligence — Infographic",
-    "tool": "canva",
-    "image": "https://snipboard.io/gOMBCx.jpg",
-    "link": "https://canva.link/nhv7ln9zuzozmfk",
-    "description": "6-area infographic on AI's reach — from software to marketing — with color-coded icon badges on a dark theme."
-  },
 
-  
-  { 
-    "title": "History of Machine Learning — Timeline",
-    "tool": "canva",
-    "image": "https://snipboard.io/Kcgjx7.jpg",
-    "link": "https://canva.link/ieqthl8jb0ony4m",
-    "description": "A milestone timeline of ML history, from 1952's Checkers program to AlphaGo in 2016, with clean icons and color-coded years."
-  },
   { 
     "title": "TechGenHub — Machine Learning — Blog Cover",
     "tool": "canva",
@@ -214,13 +210,7 @@
     "description": "A milestone timeline of ML history, from 1952's Checkers program to AlphaGo in 2016, with clean icons and color-coded years."
   },
 
-  { 
-    "title": "TechGenHub — Supervised Learning Algorithms — Pie Chart",
-    "tool": "canva",
-    "image": "https://snipboard.io/E3m4AD.jpg",
-    "link": "https://canva.link/rjh5jta2zqq73ls",
-    "description": "8-algorithm wheel diagram of supervised learning methods, in a soft peach-mauve theme."
-  },
+  
   { 
     "title": "TechGenHub — Unsupervised Learning Pipeline — Diagram",
     "tool": "canva",
@@ -293,6 +283,13 @@
     "image": "https://snipboard.io/LsijTV.jpg",
     "link": "https://canva.link/x2okr59zl2rvjva",
     "description": "A horizontal collage of JS framework logos on a purple-green gradient — a second take on the tech-stack visual."
+  },
+  {
+    "title": "Pariyon Ki Kahaniyan — Storybook Cover",
+    "tool": "canva",
+    "image": "https://snipboard.io/XA6GB7.jpg",
+    "link": "https://canva.link/ufospt3olpwf4he",
+    "description": "Illustrated storybook cover for a Hindi fairy-tale collection — night-sky theme with a fairy, a prince, and a family, designed to appeal to young readers."
   }
   
 ]
