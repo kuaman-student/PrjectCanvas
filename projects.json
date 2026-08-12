@@ -146,6 +146,22 @@
     "link": "https://canva.link/z3nam6ohecnf0sb",
     "description": "Circular badge logo for 'Trapollution Repeller' — green and blue pentagon frame, bold typography, and a red X marking out pollution, on a punchy lime background."
   },
+   { 
+    "title": "TechGenHub — Machine Learning — Blog Cover",
+    "tool": "canva",
+    "image": "https://snipboard.io/PuFoRV.jpg",
+    "link": "https://canva.link/f97k2f6cwcvyvhb",
+    "description": "A milestone timeline of ML history, from 1952's Checkers program to AlphaGo in 2016, with clean icons and color-coded years."
+  },
+
+  
+  { 
+    "title": "TechGenHub — Unsupervised Learning Pipeline — Diagram",
+    "tool": "canva",
+    "image": "https://snipboard.io/DRsneP.jpg",
+    "link": "https://canva.link/ks2arasw0of3v26",
+    "description": "End-to-end unsupervised learning pipeline diagram, from raw data to business systems, on a dark tech theme — TechGenHub."
+  },
      {
     "title": "TechGenHub — Social Media & Mental Health — Carousel Series ",
     "tool": "canva",
@@ -210,22 +226,7 @@
   },
   
 
-  { 
-    "title": "TechGenHub — Machine Learning — Blog Cover",
-    "tool": "canva",
-    "image": "https://snipboard.io/PuFoRV.jpg",
-    "link": "https://canva.link/f97k2f6cwcvyvhb",
-    "description": "A milestone timeline of ML history, from 1952's Checkers program to AlphaGo in 2016, with clean icons and color-coded years."
-  },
-
-  
-  { 
-    "title": "TechGenHub — Unsupervised Learning Pipeline — Diagram",
-    "tool": "canva",
-    "image": "https://snipboard.io/DRsneP.jpg",
-    "link": "https://canva.link/ks2arasw0of3v26",
-    "description": "End-to-end unsupervised learning pipeline diagram, from raw data to business systems, on a dark tech theme — TechGenHub."
-  },
+ 
   { 
     "title": "TechGenHub — Supervised vs Unsupervised Learning — Comparison Chart",
     "tool": "canva",
