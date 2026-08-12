@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Project Canvas — Design Archive</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link
+  href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap"
+  rel="stylesheet"
+/>
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <div class="grid-canvas" aria-hidden="true"></div>
+
+  <div class="net-banner" id="netBanner" role="status">
+    <span class="net-dot" aria-hidden="true"></span>
+    <p>Please connect to the internet — this page loads project data and images live.</p>
+  </div>
+
+  <header class="hero">
+    <p class="eyebrow">DESIGN ARCHIVE</p>
+    <h1>Things I've<br /><span class="accent">made</span> lately.</h1>
+    <p class="hero-sub">
+      A running canvas of Figma &amp; Canva projects, pulled live from my file 
+      <code>projects.json</code>.
+    </p>
+  </header>
+
+  <main>
+    <section id="cardGrid" class="card-grid" aria-live="polite"></section>
+
+    <p id="loadingState" class="state-msg">Loading projects…</p>
+    <p id="emptyState" class="state-msg" hidden>
+      No projects yet — add one to <code>projects.json</code>.
+    </p>
+    <p id="errorState" class="state-msg state-msg--error" hidden>
+      Couldn't load <code>projects.json</code>. Serve this folder with a local
+      server (not by double-clicking index.html) and make sure you're online.
+    </p>
+  </main>
+
+  <footer class="site-footer">
+    <p>Built by Aman Kumar, b26322, Electrical Engineering, 1st year, <code>IIT Mandi</code></p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
