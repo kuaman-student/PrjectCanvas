@@ -294,11 +294,18 @@
     "description": "Complete mobile UI flow for the DMC app — login, permissions, club screens, and error states — in a blue-and-white design system."
   },
    { 
-    "title": "DMC App — UI Design",
+    "title": "Truecaller — App Prototype",
     "tool": "figma",
-    "image": "https://snipboard.io/3fP0rM.jpg",
+    "image": "https://snipboard.io/8RDgsS.jpg",
     "link": "https://www.figma.com/design/FmtayQfA7P7kPXGWeQh2tQ/TRUECALLER-PROTOTYPE?node-id=1-2&t=Yp9Oxl7a7JRHQR5I-1",
     "description": "Complete mobile UI flow for the DMC app — login, permissions, club screens, and error states — in a blue-and-white design system."
+  },
+   { 
+    "title": "Student/Teacher Sign In — UI Design",
+    "tool": "figma",
+    "image": "https://snipboard.io/WC9KV5.jpg",
+    "link": "https://www.figma.com/design/Tk7nnj0zx9id03HLFFMNCe/Signin?node-id=0-1&t=rTpmzmrpWfBHtnty-1",
+    "description": "Role-based sign-in UI with a Student/Teacher toggle, in a clean blue-and-white design — Figma."
   }
   
 ]
