@@ -2,7 +2,7 @@
 
 A tiny, no-framework portfolio page that showcases Figma & Canva projects. Every project card (image, title, description, link) is pulled dynamically from a single `projects.json` file — no HTML editing needed to add new work.
 
-**Live demo:** _add your Vercel URL here after deploying_
+**Live demo:** : https://project-canvas-ashy.vercel.app/
 
 ## ✨ Features
 
