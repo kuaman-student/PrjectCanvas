@@ -20,6 +20,13 @@
     "link": "https://canva.link/ngu7svr3v7lc9np",
     "description": "Colorful collage capturing Bihar's culture — food, monuments, and folk traditions — bordered with a decorative elephant pattern."
   },
+    { 
+    "title": "Negative Space Typography — School Project",
+    "tool": "canva",
+    "image": "https://snipboard.io/Zd4Mr7.jpg",
+    "link": "https://canva.link/aoegx7w41qw50vr",
+    "description": "6-word negative space typography project, where gaps in each letterform represent the word's meaning."
+  },
   {
     "title": "The Goat Who Ate the Veggies (Comic Strip)",
     "tool": "canva",
@@ -61,6 +68,13 @@
     "image": "https://snipboard.io/TW9pCG.jpg",
     "link": "https://canva.link/s02c82ykh7ladt2",
     "description": "Circuit-styled lion logo for my tech blog TechGenHub — glowing blue lines on black, built for a sharp tech-brand feel."
+  },
+  { 
+    "title": "TechGenHub — Banner",
+    "tool": "canva",
+    "image": "https://snipboard.io/nMp1Kc.jpg",
+    "link": "https://canva.link/cf040kkjb5mbaeb",
+    "description": "Full brand banner for TechGenHub, with logo, tagline, contact info, and a QR code panel on a blue tech background."
   },
   {
     "title": "TechGenHub — Blog Poster",
@@ -104,11 +118,188 @@
     "link": "https://canva.link/tmdrvgimlozwu41",
     "description": "Anti-cyberbullying awareness poster with a call to action and a quote on staying silent — TechGenHub branded."
   },
-  {
-    "title": "TechGenHub — Stop Cyberbullying — Awareness Poster",
+  { 
+    "title": "TechGenHub — The Stages in Cyberbullying — Infographic",
     "tool": "canva",
-    "image": "https://snipboard.io/nvZQlf.jpg",
+    "image": "https://snipboard.io/kiWFGP.jpg",
     "link": "https://canva.link/fihagesvpoibqh8",
-    "description": "Anti-cyberbullying awareness poster with a call to action and a quote on staying silent — TechGenHub branded."
+    "description": "5-stage cyberbullying breakdown — from harassment to real-world impact — in a bold black-and-purple infographic for TechGenHub."
+  },
+  { 
+    "title": "TechGenHub — The Stages in Cyberbullying — Infographic",
+    "tool": "canva",
+    "image": "https://snipboard.io/4YLkaw.jpg",
+    "link": "https://canva.link/5ee9hosrcq10uuh",
+    "description": "Screen addiction awareness poster — a phone-chained-to-hand visual with notification icons on a textured background, for TechGenHub."
+  },
+  { 
+    "title": "TechGenHub — Small Habits To Have Less Screen Time — Poster",
+    "tool": "canva",
+    "image": "https://snipboard.io/xmPL37.jpg",
+    "link": "https://canva.link/w4fyplf6ma5socq",
+    "description": "Cover poster on habit-based tips to reduce screen time, paired with a phone-scrolling illustration — for TechGenHub."
+  },
+  { 
+    "title": "JavaScript Frameworks — Logo Collage",
+    "tool": "canva",
+    "image": "https://snipboard.io/uodPLs.jpg",
+    "link": "https://canva.link/8a3vt7x7550u5uc",
+    "description": "A vibrant collage of JS framework and library logos — React, Vue, Node, Angular, and more — on a bold gradient background."
+  },
+  { 
+    "title": "JavaScript Frameworks — Collage (Wide Layout)",
+    "tool": "canva",
+    "image": "https://snipboard.io/LsijTV.jpg",
+    "link": "https://canva.link/x2okr59zl2rvjva",
+    "description": "A horizontal collage of JS framework logos on a purple-green gradient — a second take on the tech-stack visual."
+  },
+  { 
+    "title": "TechGenHub — Advances in Artificial Intelligence — Infographic",
+    "tool": "canva",
+    "image": "https://snipboard.io/gOMBCx.jpg",
+    "link": "https://canva.link/nhv7ln9zuzozmfk",
+    "description": "6-area infographic on AI's reach — from software to marketing — with color-coded icon badges on a dark theme."
+  },
+  { 
+    "title": "TechGenHub — Tech & Cybersecurity — Digital Poster",
+    "tool": "canva",
+    "image": "https://snipboard.io/a1XKAp.jpg",
+    "link": "https://canva.link/mqhaxa9a8pie5pq",
+    "description": "A visual mashup of AI, data, and cybersecurity icons on a purple binary-code background, for TechGenHub."
+  },
+  { 
+    "title": "MakeMyPortfolio — Logo",
+    "tool": "canva",
+    "image": "https://snipboard.io/Q0NqWL.jpg",
+    "link": "https://canva.link/29m8mfmjh55bi7y",
+    "description": "Briefcase-icon logo for MakeMyPortfolio, on a warm coral-purple gradient, with tagline."
+  },
+  { 
+    "title": "History of Machine Learning — Timeline",
+    "tool": "canva",
+    "image": "https://snipboard.io/Kcgjx7.jpg",
+    "link": "https://canva.link/ieqthl8jb0ony4m",
+    "description": "A milestone timeline of ML history, from 1952's Checkers program to AlphaGo in 2016, with clean icons and color-coded years."
+  },
+  { 
+    "title": "TechGenHub — Machine Learning — Blog Cover",
+    "tool": "canva",
+    "image": "https://snipboard.io/PuFoRV.jpg",
+    "link": "https://canva.link/f97k2f6cwcvyvhb",
+    "description": "A milestone timeline of ML history, from 1952's Checkers program to AlphaGo in 2016, with clean icons and color-coded years."
+  },
+  { 
+    "title": "TechGenHub — AI, ML & Deep Learning — Concentric Diagram",
+    "tool": "canva",
+    "image": "https://snipboard.io/2hfg3A.jpg",
+    "link": "https://canva.link/ufoja3jnlytrbzj",
+    "description": "Concentric-circle breakdown of AI, ML, and Deep Learning definitions, on a teal gradient — for TechGenHub."
+  },
+  { 
+    "title": "TechGenHub — Supervised Learning Algorithms — Pie Chart",
+    "tool": "canva",
+    "image": "https://snipboard.io/E3m4AD.jpg",
+    "link": "https://canva.link/rjh5jta2zqq73ls",
+    "description": "8-algorithm wheel diagram of supervised learning methods, in a soft peach-mauve theme."
+  },
+  { 
+    "title": "TechGenHub — Unsupervised Learning Pipeline — Diagram",
+    "tool": "canva",
+    "image": "https://snipboard.io/DRsneP.jpg",
+    "link": "https://canva.link/ks2arasw0of3v26",
+    "description": "End-to-end unsupervised learning pipeline diagram, from raw data to business systems, on a dark tech theme — TechGenHub."
+  },
+  { 
+    "title": "TechGenHub — Supervised vs Unsupervised Learning — Comparison Chart",
+    "tool": "canva",
+    "image": "https://snipboard.io/nWfIiY.jpg",
+    "link": "https://canva.link/fzfmsxsub4vns8h",
+    "description": "Table comparing supervised vs unsupervised learning across 6 factors, in a coral-teal color scheme — TechGenHub."
+  },
+  { 
+    "title": "TechGenHub — Reinforcement Learning — Cycle Diagram",
+    "tool": "canva",
+    "image": "https://snipboard.io/dMT1Np.jpg",
+    "link": "https://canva.link/yln91mmu079xkhc",
+    "description": "Reinforcement learning loop diagram — agent, actions, reward, state — on a neon purple background, TechGenHub."
+  },
+  { 
+    "title": "TechGenHub — 5 Problems in Machine Learning — Infographic",
+    "tool": "canva",
+    "image": "https://snipboard.io/6lScjF.jpg",
+    "link": "https://canva.link/u8m4l3yc6yoxiub",
+    "description": "5-problem breakdown of ML challenges — data, algorithms, interpretability, bias, scalability — on a blue tech theme."
+  },
+  { 
+    "title": "CollabConnect — Circular Badge Logo",
+    "tool": "canva",
+    "image": "https://snipboard.io/augZK7.jpg",
+    "link": "https://canva.link/7m7j1to6cq6vexr",
+    "description": "Retro-style circular badge logo for CollabConnect, with connected-figures icon and a 'Collaborate and Connect' tagline."
+  },
+  { 
+    "title": "TechGenHub — Instagram Account Deactivated — Blog Cover",
+    "tool": "canva",
+    "image": "https://snipboard.io/RnMKUJ.jpg",
+    "link": "https://canva.link/ethwmhc85ao2z7k",
+    "description": "Eye-catching purple cover for a TechGenHub post on fixing a deactivated Instagram account."
+  },
+  { 
+    "title": "Different Perspectives of Nationalism — School Presentation",
+    "tool": "canva",
+    "image": "https://snipboard.io/pY8169.jpg",
+    "link": "https://canva.link/4ztc9l1ii1g945m",
+    "description": "13-slide school presentation on nationalism, in a vintage scrapbook-style theme."
+  },
+  { 
+    "title": "Unravelling Food Adulteration — Science Project",
+    "tool": "canva",
+    "image": "https://snipboard.io/smqiGu.jpg",
+    "link": "https://canva.link/rt8nvoao4y2n3ru",
+    "description": "20-slide hand-drawn-style science presentation on food adulteration, covering health risks and project goals."
+  },
+  { 
+    "title": "Virtulib — App Logo",
+    "tool": "canva",
+    "image": "https://snipboard.io/wUPXHf.jpg",
+    "link": "https://canva.link/vmdk0i61249lixw",
+    "description": "Clean, minimal logo for Virtulib — a phone icon with the tagline 'Exploring Libraries Beyond Boundaries."
+  },
+  { 
+    "title": "The Jack in the Box — April Fool's Animation",
+    "tool": "canva",
+    "image": "https://snipboard.io/VHmQka.jpg",
+    "link": "https://canva.link/l37xs1kavd6a215",
+    "description": "Short jack-in-the-box style animation building up to an April Fool's Day surprise reveal."
+  },
+    { 
+    "title": "Four Dots — Game Logo",
+    "tool": "canva",
+    "image": "https://snipboard.io/0jXbgr.jpg",
+    "link": "https://canva.link/ao82ncevmt6b6rs",
+    "description": "Circular node-based logo for the game Four Dots, spelling the title across connected dots on an amber background."
+  },
+  { 
+    "title": "TechGenHub — History of ML — Zigzag Timeline",
+    "tool": "canva",
+    "image": "https://snipboard.io/pBJD4V.jpg",
+    "link": "https://canva.link/po4vk1zxgky906w",
+    "description": "Colorful zigzag timeline covering ML milestones, an alternate take on the earlier ML history design — TechGenHub."
+  },
+  { 
+    "title": "DMC App — UI Design",
+    "tool": "figma",
+    "image": "https://snipboard.io/3fP0rM.jpg",
+    "link": "https://www.figma.com/design/UQK84vxVKmVoeKnKkgAR0z/DMC-App-UI-SOSE-5?node-id=505-16&t=xbS6eJdTlTGXfspv-1",
+    "description": "Complete mobile UI flow for the DMC app — login, permissions, club screens, and error states — in a blue-and-white design system."
+  },
+   { 
+    "title": "DMC App — UI Design",
+    "tool": "figma",
+    "image": "https://snipboard.io/3fP0rM.jpg",
+    "link": "https://www.figma.com/design/FmtayQfA7P7kPXGWeQh2tQ/TRUECALLER-PROTOTYPE?node-id=1-2&t=Yp9Oxl7a7JRHQR5I-1",
+    "description": "Complete mobile UI flow for the DMC app — login, permissions, club screens, and error states — in a blue-and-white design system."
   }
+  
 ]
+
